@@ -12,3 +12,5 @@ CR3: используется встроенный JPEG, не RAW-данные �
 1.4.0 TEST: дополнительные переводы инструкций и кнопка аудита непереведённых строк (TXT).
 
 1.4.1 RC: translated custom photo chooser and updated version label.
+
+1.4.2 RC: photo is before editing controls and sticky on mobile; direct photo print with paper/fit/margins; cache version bumped.
